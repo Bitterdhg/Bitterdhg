@@ -1,4 +1,6 @@
 ### Hi there 👋
+- :man_technologist: I'm Haoge Deng, a Master's Student at BUPT
+- :telescope: Exploring: Image Generation & Self-supervised Training
 
 <!--
 **Bitterdhg/Bitterdhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
