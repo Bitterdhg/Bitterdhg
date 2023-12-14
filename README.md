@@ -10,6 +10,9 @@
 
 💬☲ **One** arxiv 𝐩𝐚𝐩𝐞𝐫𝐬 on text to 3D,[🔭GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation🔭](https://arxiv.org/abs/2311.17971)  [🔭Github🔭](https://github.com/baaivision/GeoDream)  
 
+### Activities
+Reviewer of ICASSP’24
+
 ### 📧 Contact Me: denghaoge@bupt.edu.cn
 
 
