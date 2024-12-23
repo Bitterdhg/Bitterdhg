@@ -1,6 +1,6 @@
 ### Hi there 👋
 - :man_technologist: I'm Haoge Deng, a Master's Student at BUPT
-- :telescope: Exploring: Image Generation & Self-supervised Training
+- :telescope: Exploring: Image / VIdeo / 3D Generation
 
 
 ⚡ Recent ⚡
